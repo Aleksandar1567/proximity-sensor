@@ -1,0 +1,8 @@
+../Core/Src/proximity11.c:8:9:hal_i2c_master_write_then_read	8
+../Core/Src/proximity11.c:41:9:proximity11_get	2
+../Core/Src/proximity11.c:53:9:proximity11_set	3
+../Core/Src/proximity11.c:73:7:proximity11_convert_lx	12
+../Core/Src/proximity11.c:146:6:proximity11_update	1
+../Core/Src/proximity11.c:170:9:proximity11_default_cfg	3
+../Core/Src/proximity11.c:239:6:proximity11_get_raw_ps_als_values	1
+../Core/Src/proximity11.c:246:6:proximity11_get_ps_als_values	1

@@ -1,0 +1,8 @@
+../Core/Src/main.c:69:5:__io_putchar	1
+../Core/Src/main.c:74:6:application_init	3
+../Core/Src/main.c:90:6:HAL_GPIO_EXTI_Callback	4
+../Core/Src/main.c:124:6:ConnectToWiFi	1
+../Core/Src/main.c:148:6:HAL_UART_RxCpltCallback	3
+../Core/Src/main.c:171:5:main	3
+../Core/Src/main.c:246:6:SystemClock_Config	4
+../Core/Src/main.c:299:6:Error_Handler	1
